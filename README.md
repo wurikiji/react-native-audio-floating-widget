@@ -1,5 +1,5 @@
 
-# react-native-audio-floating-widget
+# react-native-audio-floating-widget for android M+
 
 This repo is like a "Chat Head" but for audio :), i hope it helps somebody.
 
@@ -9,7 +9,9 @@ Thanks to `Cleveroad` for `https://android-arsenal.com/details/1/3494#`
 
 ## Getting started
 
-`$ npm install react-native-audio-floating-widget --save`
+`$ npm install https://github.com/wurikiji/react-native-audio-floating-widget`
+or
+`$ yarn add https://github.com/wurikiji/react-native-audio-floating-widget'
 
 ### Mostly automatic installation
 
